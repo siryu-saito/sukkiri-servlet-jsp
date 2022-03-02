@@ -8,6 +8,6 @@
 </head>
 <body>
 <p>登録完了しました</p>
-<a href = "/servlet/RegisterUser"></a>
+<a href = "/lesson2/RegisterUser"></a>
 </body>
 </html>

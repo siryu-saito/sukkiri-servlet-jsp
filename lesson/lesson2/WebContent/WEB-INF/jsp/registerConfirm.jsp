@@ -17,7 +17,7 @@
 ログインID：<%= registerUser.getId() %><br>
 名前：<%= registerUser.getName() %><br>
 </p>
-<a href = "/servlet/RegisterUser">戻る</a>
-<a href = "/servlet/RegisterUser?action=done">登録</a>
+<a href = "/lesson2/RegisterUser">戻る</a>
+<a href = "/lesson2/RegisterUser?action=done">登録</a>
 </body>
 </html>

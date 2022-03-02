@@ -30,7 +30,7 @@ public class RegisterUser extends HttpServlet {
 		
 		// 「登録の開始」をリクエストされた時の処理
 		if (action == null) {
-			forwardPath = "/WEB-INF/jsp/registerConfirm.jsp";
+			forwardPath = "/WEB-INF/jsp/registerForm.jsp";
 		}
 		
 		// 登録確認画面から「登録実行」をリクエストされた時の処理
